@@ -56,7 +56,7 @@ Tu página ya tiene un "Aviso de Privacidad". Revisa que diga que usas el nombre
 2. **Un número para el bot.** Tienes dos opciones:
    - Conectar el número que ya usas en **WhatsApp Business** (la app). Meta lo llama "coexistencia": sigues viendo los chats en la app y puedes contestar tú cuando alguien escribe PERSONA. Si al conectar no te aparece esa opción, usa la siguiente.
    - Usar un número nuevo que no esté en ninguna app de WhatsApp.
-   - Ojo: tu página tiene dos números distintos. Los botones de WhatsApp usan el 55 8492 3321 y el teléfono que se muestra es el 55 3658 7818. Los botones deben llevar al número del bot.
+   - El bot va en el **55 3658 7818**, el mismo número al que llevan todos los botones de WhatsApp de la página.
 3. **Un servidor con disco persistente** donde corra el bot las 24 horas, por ejemplo Railway con un volumen o Render con disco (unos 5 a 7 USD al mes). Los planes gratis "se duermen", y el cliente esperaría varios segundos la primera respuesta.
 4. **Node.js 20.6 o más nuevo** si quieres probarlo en tu computadora.
 
