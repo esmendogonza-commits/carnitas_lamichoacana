@@ -1,0 +1,92 @@
+{
+  "nombre": "Carnitas La Michoacana",
+  "direccion": "Mercado Progreso del Sur, Local 134, Minerva, CP 09810, Alcaldía Iztapalapa, CDMX. Pasillo tradicional de comida.",
+  "mapa": "https://maps.google.com/?q=Mercado+Progreso+del+Sur+Iztapalapa+CDMX",
+  "horarioTexto": "Sábado y domingo de 9:00 am a 4:00 pm (o hasta agotar existencias del día).",
+  "pagos": "Aceptamos efectivo y transferencia. Pagas al recoger tu pedido.",
+  "domicilio": "Por este chat agendamos pedidos para recoger en el local. Si necesitas envío a domicilio escribe PERSONA y te atiende alguien del equipo.",
+  "agenda": {
+    "dias": [
+      6,
+      0
+    ],
+    "abre": "09:00",
+    "cierra": "16:00",
+    "ultimaRecogida": "15:30",
+    "anticipacionMinutos": 30,
+    "diasAdelante": 8
+  },
+  "menu": [
+    {
+      "id": "kilo",
+      "nombre": "Kilo de carnitas",
+      "precio": 370,
+      "unidad": "kg",
+      "descripcion": "Incluye 1/2 kg de tortillas hechas a mano, salsas, cebollas con habanero, limones y chiles toreados. Rinde 4-5 personas.",
+      "cortes": [
+        "Maciza",
+        "Costilla",
+        "Chamorro",
+        "Cuerito",
+        "Surtida"
+      ],
+      "palabras": [
+        "kilo",
+        "kilos",
+        "maciza",
+        "costilla",
+        "cuerito",
+        "surtida"
+      ]
+    },
+    {
+      "id": "taco",
+      "nombre": "Taco de carnitas",
+      "precio": 28,
+      "unidad": "pieza",
+      "descripcion": "Surtido: maciza, costilla y cuerito en doble tortilla, con cebolla y cilantro.",
+      "palabras": [
+        "taco",
+        "tacos"
+      ]
+    },
+    {
+      "id": "quesadilla",
+      "nombre": "Quesadilla de sesos",
+      "precio": 12,
+      "unidad": "pieza",
+      "descripcion": "Dorada, con sesos sazonados con epazote y cebolla.",
+      "palabras": [
+        "quesadilla",
+        "quesadillas",
+        "sesos"
+      ]
+    },
+    {
+      "id": "chamorro",
+      "nombre": "Chamorro tradicional",
+      "precio": 200,
+      "unidad": "kg",
+      "descripcion": "Precio por kilo. El total final depende del peso de la pieza.",
+      "palabras": [
+        "chamorro",
+        "chamorros"
+      ],
+      "precioAproximado": true
+    },
+    {
+      "id": "paquete",
+      "nombre": "Paquete Mendoza Fest",
+      "precio": 399,
+      "unidad": "paquete",
+      "descripcion": "1 kg surtido, chicharrón, guacamole con totopos, refresco familiar, 2 salsas y cebollas. Para 6 a 8 personas.",
+      "palabras": [
+        "paquete",
+        "paquetes",
+        "mendoza",
+        "fest",
+        "familiar"
+      ]
+    }
+  ]
+}
