@@ -1,0 +1,6 @@
+# Solo se publica la página. El código del bot, las notas y las herramientas no deben quedar visibles en internet.
+whatsapp-bot/
+tailwind.config.js
+css/tailwind.src.css
+*.md
+.env*
